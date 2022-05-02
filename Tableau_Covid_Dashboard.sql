@@ -1,6 +1,8 @@
 /*
 Queries used for Tableau Project
+Please see actual dashboard --> https://public.tableau.com/views/CovidDashboard_16514631109580/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 */
+
 
 
 
