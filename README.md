@@ -1,3 +1,3 @@
 # PortfolioProjects-
-Personal projects I have worked on for Data Analyst role. 
-
+Here are several projects I completed using SQL and Tableau.
+Feel free to take a look and reach out if you have any questions!
