@@ -11,3 +11,8 @@ Contact: chagolla2345@gmail.com | [Linkedin](https://www.linkedin.com/in/jonatha
 ### Data Visualization Projects
 1. [COVID Project - Tableau](https://public.tableau.com/app/profile/jonathan.chagolla3785/viz/CovidDashboard_16514631109580/Dashboard1)
 2. [AirBnB Project - Tableau](https://public.tableau.com/app/profile/jonathan.chagolla3785/viz/AirBnBFullProject_16521252000370/Dashboard1?publish=yes)
+
+
+### Data Excel Cleaning 
+1A. [Presidents Raw](https://github.com/chagolla23/PortfolioProjects-/blob/main/Presidents_DataRaw.xlsx)
+1B. [Presidents Data Clean](https://github.com/chagolla23/PortfolioProjects-/blob/main/Presidents_DataClean.xlsx)
